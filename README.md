@@ -1,5 +1,5 @@
 <Font color="red" size="6pt" police="Verdana"><b>Projet Nobel Prize</Font>
-[![Binder](https://mybinder.org/v2/gh/SarraMarmouch/ProjetDataAnayltics/HEAD?labpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SarraMarmouch/ProjetDataAnayltics/HEAD?labpath=index.ipynb)
 ## 📁Présentation de projet
 ![img](./image/image2.png)
 
