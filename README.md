@@ -57,8 +57,6 @@ The first Nobel Prize was handed out in 1901, and at that time the Prize was ver
 
  ##### ✅ Numbers of awards won by male and female winners
 
-  ##### ✅ The number of prizes won by the top 10 nationalities.
-
 
  ##### ✅ The visualization of the sex of a laureate either woman or man who receives the Nobel Prize by category
 
