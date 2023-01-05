@@ -25,7 +25,7 @@ The first Nobel Prize was handed out in 1901, and at that time the Prize was ver
 
       ✔️ nobel = pd.read_csv("./Data/nobel.csv")
 
-![img](./image/table.jpg)
+![img](./image/tab.jpg)
 
 #### 📈 visualization of running data :
   ######  US dominance, visualized :
