@@ -10,15 +10,14 @@ The first Nobel Prize was handed out in 1901, and at that time the Prize was ver
 📃 Table of Contents
   ##### 🔘	The most Nobel of Prizes
   ##### 🔘	So, who gets the Nobel Prize?
-  🔘	USA dominance
-  🔘	USA dominance, visualized
-  🔘	What is the gender of a typical Nobel Prize winner?
-  🔘  The first woman and man to win the Nobel Prize
-  🔘  Repeat laureates
-  🔘  How old are you when you get the prize?
-  🔘  Age differences between prize categories
-  🔘  Oldest and youngest winners
-  🔘  Name of the youngest winner!
+  #####  🔘	USA dominance, visualized
+  #####  🔘	What is the gender of a typical Nobel Prize winner?
+  #####  🔘  The first woman and man to win the Nobel Prize
+  #####  🔘  Repeat laureates
+  #####  🔘  How old are you when you get the prize?
+  #####  🔘  Age differences between prize categories
+  #####  🔘  Oldest and youngest winners
+  ##### 🔘  Name of the youngest winner!
 <hr>
 
 ### 📋 Analyse
