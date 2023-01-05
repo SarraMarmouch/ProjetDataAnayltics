@@ -8,8 +8,8 @@
 The first Nobel Prize was handed out in 1901, and at that time the Prize was veritably Eurocentric and manly-focused, but currently it's not poisoned in any way whatsoever. <hr>
 
 📃 Table of Contents
-  🔘	The most Nobel of Prizes
-  🔘	So, who gets the Nobel Prize?
+  ##### 🔘	The most Nobel of Prizes
+  ##### 🔘	So, who gets the Nobel Prize?
   🔘	USA dominance
   🔘	USA dominance, visualized
   🔘	What is the gender of a typical Nobel Prize winner?
@@ -53,11 +53,13 @@ The first Nobel Prize was handed out in 1901, and at that time the Prize was ver
 
   ##### In conclusion, we looked at:
 
+  ##### ✅ Visualization of US Domination
+
+
  ##### ✅ Numbers of awards won by male and female winners
 
   ##### ✅ The number of prizes won by the top 10 nationalities.
 
-  ##### ✅ Visualization of US Domination
 
  ##### ✅ The visualization of the sex of a laureate either woman or man who receives the Nobel Prize by category
 
