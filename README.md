@@ -60,11 +60,6 @@ The first Nobel Prize was handed out in 1901, and at that time the Prize was ver
 
  ##### ✅ The visualization of the sex of a laureate either woman or man who receives the Nobel Prize by category
 
- ##### ✅ The first women and men to win the Nobel Prize.
-
- ##### ✅ Display of some laureates who obtained more than one nobel prize
-
- ##### ✅ Display of some laureates who obtained more than one nobel prize
 
  ##### ✅ Visualization of the age of each winner when they won their Nobel Prize
 
