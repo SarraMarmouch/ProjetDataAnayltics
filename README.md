@@ -17,7 +17,7 @@ The first Nobel Prize was handed out in 1901, and at that time the Prize was ver
   #####  🔘  How old are you when you get the prize?
   #####  🔘  Age differences between prize categories
   #####  🔘  Oldest and youngest winners
-  ##### 🔘  Name of the youngest winner!
+  #####  🔘  Name of the youngest winner!
 <hr>
 
 ### 📋 Analyse
